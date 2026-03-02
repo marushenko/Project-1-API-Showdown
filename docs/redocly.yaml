@@ -6,3 +6,6 @@ site:
         - api: petstore
         - api: museum
         - api: train
+    - label: Guides
+      items:
+        - page: docs/museum-getting-started.md
