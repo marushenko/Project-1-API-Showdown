@@ -1,0 +1,8 @@
+site:
+  title: API Showdown
+  navigation:
+    - label: APIs
+      items:
+        - api: petstore
+        - api: museum
+        - api: train
